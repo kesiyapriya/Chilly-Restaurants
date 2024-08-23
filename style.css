@@ -13,7 +13,7 @@ body,h2
 }
 .landing
 {
-    background-image: url('../Task-1/Spicy.jpg') ;
+    background-image: url('Spicy.jpg') ;
     background-size:cover ;
     background-position: center;
     height: 100vh;
